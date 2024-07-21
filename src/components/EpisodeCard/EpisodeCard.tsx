@@ -13,8 +13,8 @@ export const EpisodeCard: React.FC<EpisodeCardProps> = ({ episode }) => {
       {episode && (
         <div>
           <p>
-            <strong>N</strong> S{episode.season}E{episode.episode} ({episode.id}
-            )
+            S{episode.season}E{episode.episode}{" "}
+            {episode.season !== 1 ? `(${episode.id})` : ""}
           </p>
           <p>
             <a
@@ -22,17 +22,11 @@ export const EpisodeCard: React.FC<EpisodeCardProps> = ({ episode }) => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <strong>link</strong>
+              <strong>Смотреть</strong>
             </a>
           </p>
           <p>
-            <strong>EN</strong> {episode.name_EN}
-          </p>
-          <p>
-            <strong>RU</strong> {episode.name_RU}
-          </p>
-          <p>
-            <strong>date</strong> {episode.date}
+            <strong>Вышел: </strong> {episode.date}
           </p>
         </div>
       )}

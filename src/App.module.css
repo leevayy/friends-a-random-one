@@ -1,15 +1,36 @@
 .container {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     flex-direction: column;
     gap: 20px;
     width: 100vw;
+    height: 100vh;
+    padding: 0 8px;
+}
+
+.emptyStateHeadline {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.container.empty {
+    justify-content: center;
+}
+
+.emptyStateHeadline h1 {
+    font-size: 2rem;
+    margin: 0;
 }
 
 .nextEpisode {
     font-size: 20px;
     padding: 10px 20px;
+}
+.image {
+    max-width: 100%;
 }
 
 .episodeName_RU {

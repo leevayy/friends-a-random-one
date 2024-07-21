@@ -1,3 +1,4 @@
+import classNames from "classnames";
 import { useEffect, useState } from "react";
 import React from "react";
 
@@ -40,29 +41,35 @@ const App: React.FC = () => {
   };
 
   return (
-    <div className={styles.container}>
+    <div
+      className={classNames(!randomEpisode && styles.empty, styles.container)}
+    >
       {randomEpisode && (
         <img
+          className={styles.image}
           src={`https://serialfriends.online/wp-content/uploads/2021/09/druzya-${randomEpisode.season}-sezon-${randomEpisode.episode}-seriya.jpg`}
         />
       )}
       {!randomEpisode && (
-        <h1>
-          A Random One x{" "}
-          <a
-            href="https://serialfriends.online/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            serialfriends.online
-          </a>
-        </h1>
+        <div className={styles.emptyStateHeadline}>
+          <h1>The Random One</h1>
+          <h1> x </h1>
+          <h1>
+            <a
+              href="https://serialfriends.online/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              serialfriends.online
+            </a>
+          </h1>
+        </div>
       )}
       {randomEpisode && (
-        <>
+        <div className={styles.emptyStateHeadline}>
           <h1>{randomEpisode.name_EN}</h1>
-          <h2 className={styles.episodeName_RU}>{randomEpisode.name_RU}</h2>
-        </>
+          <h1 className={styles.episodeName_RU}>{randomEpisode.name_RU}</h1>
+        </div>
       )}
       <button className={styles.nextEpisode} onClick={handleRandomEntity}>
         Next

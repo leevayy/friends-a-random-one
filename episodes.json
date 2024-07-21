@@ -1,0 +1,2121 @@
+[
+    {
+        "id": 1,
+        "episode": 1,
+        "season": 1,
+        "name_EN": "The One Where Monica Gets a Roommate",
+        "name_RU": "Эпизод, где Моника берёт новую соседку",
+        "date": "22 сентября 1994"
+    },
+    {
+        "id": 2,
+        "episode": 2,
+        "season": 1,
+        "name_EN": "The One with the Sonogram at the End",
+        "name_RU": "Эпизод с сонограммой в конце",
+        "date": "29 сентября 1994"
+    },
+    {
+        "id": 3,
+        "episode": 3,
+        "season": 1,
+        "name_EN": "The One with the Thumb",
+        "name_RU": "Эпизод с большим пальцем",
+        "date": "6 октября 1994"
+    },
+    {
+        "id": 4,
+        "episode": 4,
+        "season": 1,
+        "name_EN": "The One with George Stephanopoulos",
+        "name_RU": "Эпизод с Джорджем Стефанопулосом",
+        "date": "13 октября 1994"
+    },
+    {
+        "id": 5,
+        "episode": 5,
+        "season": 1,
+        "name_EN": "The One with the East German Laundry Detergent",
+        "name_RU": "Эпизод с восточногерманским стиральным порошком",
+        "date": "20 октября 1994"
+    },
+    {
+        "id": 6,
+        "episode": 6,
+        "season": 1,
+        "name_EN": "The One with the Butt",
+        "name_RU": "Эпизод с задницей",
+        "date": "27 октября 1994"
+    },
+    {
+        "id": 7,
+        "episode": 7,
+        "season": 1,
+        "name_EN": "The One with the Blackout",
+        "name_RU": "Эпизод, в котором выключается свет",
+        "date": "3 ноября 1994"
+    },
+    {
+        "id": 8,
+        "episode": 8,
+        "season": 1,
+        "name_EN": "The One Where Nana Dies Twice",
+        "name_RU": "Эпизод, где Нана умирает дважды",
+        "date": "10 ноября 1994"
+    },
+    {
+        "id": 9,
+        "episode": 9,
+        "season": 1,
+        "name_EN": "The One Where Underdog Gets Away",
+        "name_RU": "Эпизод, где улетает Суперпёс",
+        "date": "17 ноября 1994"
+    },
+    {
+        "id": 10,
+        "episode": 10,
+        "season": 1,
+        "name_EN": "The One with the Monkey",
+        "name_RU": "Эпизод с обезьяной",
+        "date": "15 декабря 1994"
+    },
+    {
+        "id": 11,
+        "episode": 11,
+        "season": 1,
+        "name_EN": "The One With Mrs. Bing",
+        "name_RU": "Эпизод с госпожой Бинг",
+        "date": "5 января 1995"
+    },
+    {
+        "id": 12,
+        "episode": 12,
+        "season": 1,
+        "name_EN": "The One with the Dozen Lasagnas",
+        "name_RU": "Эпизод с дюжиной лазаний",
+        "date": "12 января 1995"
+    },
+    {
+        "id": 13,
+        "episode": 13,
+        "season": 1,
+        "name_EN": "The One with the Boobies",
+        "name_RU": "Эпизод с грудью",
+        "date": "19 января 1995"
+    },
+    {
+        "id": 14,
+        "episode": 14,
+        "season": 1,
+        "name_EN": "The One with the Candy Hearts",
+        "name_RU": "Эпизод с конфетками-сердцами",
+        "date": "9 февраля 1995"
+    },
+    {
+        "id": 15,
+        "episode": 15,
+        "season": 1,
+        "name_EN": "The One with the Stoned Guy",
+        "name_RU": "Эпизод с обкуренным парнем",
+        "date": "16 февраля 1995"
+    },
+    {
+        "id": 16,
+        "episode": 16,
+        "season": 1,
+        "name_EN": "The One with Two Parts, Part One",
+        "name_RU": "Эпизод с двумя частями, часть 1",
+        "date": "23 февраля 1995"
+    },
+    {
+        "id": 17,
+        "episode": 17,
+        "season": 1,
+        "name_EN": "The One with Two Parts, Part Two",
+        "name_RU": "Эпизод с двумя частями, часть 2",
+        "date": "23 февраля 1995"
+    },
+    {
+        "id": 18,
+        "episode": 18,
+        "season": 1,
+        "name_EN": "The One with all the Poker",
+        "name_RU": "Эпизод с покером",
+        "date": "2 марта 1995"
+    },
+    {
+        "id": 19,
+        "episode": 19,
+        "season": 1,
+        "name_EN": "The One Where the Monkey Gets Away",
+        "name_RU": "Эпизод, где обезьяна сбегает",
+        "date": "9 марта 1995"
+    },
+    {
+        "id": 20,
+        "episode": 20,
+        "season": 1,
+        "name_EN": "The One with the Evil Orthodontist",
+        "name_RU": "Эпизод со злым ортодонтом",
+        "date": "6 апреля 1994"
+    },
+    {
+        "id": 21,
+        "episode": 21,
+        "season": 1,
+        "name_EN": "The One with the Fake Monica",
+        "name_RU": "Эпизод с фальшивой Моникой",
+        "date": "27 апреля 1994"
+    },
+    {
+        "id": 22,
+        "episode": 22,
+        "season": 1,
+        "name_EN": "The One with the Ick Factor",
+        "name_RU": "Эпизод с ик-фактором",
+        "date": "4 мая 1995"
+    },
+    {
+        "id": 23,
+        "episode": 23,
+        "season": 1,
+        "name_EN": "The One with the Birth",
+        "name_RU": "Эпизод с рождением",
+        "date": "11 мая 1995"
+    },
+    {
+        "id": 24,
+        "episode": 24,
+        "season": 1,
+        "name_EN": "The One Where Rachel Finds Out",
+        "name_RU": "Эпизод, где Рэйчел понимает",
+        "date": "18 мая 1995"
+    },
+    {
+        "id": 25,
+        "episode": 1,
+        "season": 2,
+        "name_EN": "The One with Ross's New Girlfriend",
+        "name_RU": "Эпизод с новой девушкой Росса",
+        "date": "21 сентября 1995"
+    },
+    {
+        "id": 26,
+        "episode": 2,
+        "season": 2,
+        "name_EN": "The One with the Breast Milk",
+        "name_RU": "Эпизод с грудным молоком",
+        "date": "28 сентября 1995"
+    },
+    {
+        "id": 27,
+        "episode": 3,
+        "season": 2,
+        "name_EN": "The One Where Heckles Dies",
+        "name_RU": "Эпизод, где мистер Хекклс умирает",
+        "date": "5 октября 1995"
+    },
+    {
+        "id": 28,
+        "episode": 4,
+        "season": 2,
+        "name_EN": "The One with Phoebe's Husband",
+        "name_RU": "Эпизод с мужем Фиби",
+        "date": "12 октября 1995"
+    },
+    {
+        "id": 29,
+        "episode": 5,
+        "season": 2,
+        "name_EN": "The One with Five Steaks and an Eggplant",
+        "name_RU": "Эпизод с пятью бифштексами и баклажаном",
+        "date": "19 октября"
+    },
+    {
+        "id": 30,
+        "episode": 6,
+        "season": 2,
+        "name_EN": "The One with the Baby on the Bus",
+        "name_RU": "Эпизод с младенцем в автобусе",
+        "date": "2 ноября 1995"
+    },
+    {
+        "id": 31,
+        "episode": 7,
+        "season": 2,
+        "name_EN": "The One Where Ross Finds Out",
+        "name_RU": "Эпизод, где Росс выясняет",
+        "date": "9 ноября 1995"
+    },
+    {
+        "id": 32,
+        "episode": 8,
+        "season": 2,
+        "name_EN": "The One with the List",
+        "name_RU": "Эпизод со списком",
+        "date": "16 ноября 1995"
+    },
+    {
+        "id": 33,
+        "episode": 9,
+        "season": 2,
+        "name_EN": "The One with Phoebe's Dad",
+        "name_RU": "Эпизод с отцом Фиби",
+        "date": "14 декабря 1995"
+    },
+    {
+        "id": 34,
+        "episode": 10,
+        "season": 2,
+        "name_EN": "The One with Russ",
+        "name_RU": "Эпизод с Рассом",
+        "date": "4 января 1996"
+    },
+    {
+        "id": 35,
+        "episode": 11,
+        "season": 2,
+        "name_EN": "The One with the Lesbian Wedding",
+        "name_RU": "Эпизод с лесбийской свадьбой",
+        "date": "18 января 1996"
+    },
+    {
+        "id": 36,
+        "episode": 12,
+        "season": 2,
+        "name_EN": "The One After the Superbowl, Part 1",
+        "name_RU": "Эпизод после Суперкубка, часть 1",
+        "date": "28 января 1996"
+    },
+    {
+        "id": 37,
+        "episode": 13,
+        "season": 2,
+        "name_EN": "The One After the Superbowl, Part 2",
+        "name_RU": "Эпизод после Суперкубка, часть 2",
+        "date": "28 января 1996"
+    },
+    {
+        "id": 38,
+        "episode": 14,
+        "season": 2,
+        "name_EN": "The One with the Prom Video",
+        "name_RU": "Эпизод, где смотрят видео с выпускного бала",
+        "date": "1 февраля 1996"
+    },
+    {
+        "id": 39,
+        "episode": 15,
+        "season": 2,
+        "name_EN": "The One Where Ross and Rachel ... You Know",
+        "name_RU": "Эпизод, где Росс и Рэйчел... ну, вы знаете",
+        "date": "8 февраля 1996"
+    },
+    {
+        "id": 40,
+        "episode": 16,
+        "season": 2,
+        "name_EN": "The One Where Joey Moves Out",
+        "name_RU": "Эпизод, где Джоуи выселяется",
+        "date": "15 февраля 1996"
+    },
+    {
+        "id": 41,
+        "episode": 17,
+        "season": 2,
+        "name_EN": "The One Where Eddie Moves In",
+        "name_RU": "Эпизод, где Эдди заселяется",
+        "date": "22 февраля 1996"
+    },
+    {
+        "id": 42,
+        "episode": 18,
+        "season": 2,
+        "name_EN": "The One Where Dr. Ramoray Dies",
+        "name_RU": "Эпизод, где доктор Рэморе умирает",
+        "date": "21 марта 1996"
+    },
+    {
+        "id": 43,
+        "episode": 19,
+        "season": 2,
+        "name_EN": "The One Where Eddie Won't Go",
+        "name_RU": "Эпизод, где Эдди не хочет выселяться",
+        "date": "28 марта 1996"
+    },
+    {
+        "id": 44,
+        "episode": 20,
+        "season": 2,
+        "name_EN": "The One Where Old Yeller Dies",
+        "name_RU": "Эпизод, где старый Йеллер умирает",
+        "date": "4 апреля 1996"
+    },
+    {
+        "id": 45,
+        "episode": 21,
+        "season": 2,
+        "name_EN": "The One with the Bullies",
+        "name_RU": "Эпизод с хулиганами",
+        "date": "25 апреля 1996"
+    },
+    {
+        "id": 46,
+        "episode": 22,
+        "season": 2,
+        "name_EN": "The One with the Two Parties",
+        "name_RU": "Эпизод с двумя вечеринками",
+        "date": "2 мая 1996"
+    },
+    {
+        "id": 47,
+        "episode": 23,
+        "season": 2,
+        "name_EN": "The One with the Chicken Pox",
+        "name_RU": "Эпизод с ветрянкой",
+        "date": "9 мая 1996"
+    },
+    {
+        "id": 48,
+        "episode": 24,
+        "season": 2,
+        "name_EN": "The One with Barry and Mindy's Wedding",
+        "name_RU": "Эпизод со свадьбой Барри и Минди",
+        "date": "16 мая 1996"
+    },
+    {
+        "id": 49,
+        "episode": 1,
+        "season": 3,
+        "name_EN": "The One with the Princess Leia Fantasy",
+        "name_RU": "Эпизод с фантазией о принцессе Лее",
+        "date": "19 сентября 1996"
+    },
+    {
+        "id": 50,
+        "episode": 2,
+        "season": 3,
+        "name_EN": "The One Where No One's Ready",
+        "name_RU": "Эпизод, где никто не готов",
+        "date": "26 сентября 1996"
+    },
+    {
+        "id": 51,
+        "episode": 3,
+        "season": 3,
+        "name_EN": "The One with the Jam",
+        "name_RU": "Эпизод с джемом",
+        "date": "3 октября 1996"
+    },
+    {
+        "id": 52,
+        "episode": 4,
+        "season": 3,
+        "name_EN": "The One with the Metaphorical Tunnel",
+        "name_RU": "Эпизод с метафорическим туннелем",
+        "date": "10 октября 1996"
+    },
+    {
+        "id": 53,
+        "episode": 5,
+        "season": 3,
+        "name_EN": "The One with Frank Jr.",
+        "name_RU": "Эпизод с Фрэнком-младшим",
+        "date": "17 октября 1996"
+    },
+    {
+        "id": 54,
+        "episode": 6,
+        "season": 3,
+        "name_EN": "The One with the Flashback",
+        "name_RU": "Эпизод со взглядом в прошлое",
+        "date": "31 октября 1996"
+    },
+    {
+        "id": 55,
+        "episode": 7,
+        "season": 3,
+        "name_EN": "The One with the Race Car Bed",
+        "name_RU": "Эпизод с кроватью в виде гоночного автомобиля",
+        "date": "7 ноября 1996"
+    },
+    {
+        "id": 56,
+        "episode": 8,
+        "season": 3,
+        "name_EN": "The One with the Giant Poking Device",
+        "name_RU": "Эпизод с гигантским тыкающим устройством",
+        "date": "14 ноября 1996"
+    },
+    {
+        "id": 57,
+        "episode": 9,
+        "season": 3,
+        "name_EN": "The One with the Football",
+        "name_RU": "Эпизод с футболом",
+        "date": "21 ноября 1996"
+    },
+    {
+        "id": 58,
+        "episode": 10,
+        "season": 3,
+        "name_EN": "The One Where Rachel Quits",
+        "name_RU": "Эпизод, где Рэйчел увольняется"
+    },
+    {
+        "id": 30,
+        "episode": 6,
+        "season": 2,
+        "name_EN": "The One with the Baby on the Bus",
+        "name_RU": "Эпизод с младенцем в автобусе",
+        "date": "2 ноября 1995"
+    },
+    {
+        "id": 31,
+        "episode": 7,
+        "season": 2,
+        "name_EN": "The One Where Ross Finds Out",
+        "name_RU": "Эпизод, где Росс выясняет",
+        "date": "9 ноября 1995"
+    },
+    {
+        "id": 32,
+        "episode": 8,
+        "season": 2,
+        "name_EN": "The One with the List",
+        "name_RU": "Эпизод со списком",
+        "date": "16 ноября 1995"
+    },
+    {
+        "id": 33,
+        "episode": 9,
+        "season": 2,
+        "name_EN": "The One with Phoebe's Dad",
+        "name_RU": "Эпизод с отцом Фиби",
+        "date": "14 декабря 1995"
+    },
+    {
+        "id": 34,
+        "episode": 10,
+        "season": 2,
+        "name_EN": "The One with Russ",
+        "name_RU": "Эпизод с Рассом",
+        "date": "4 января 1996"
+    },
+    {
+        "id": 35,
+        "episode": 11,
+        "season": 2,
+        "name_EN": "The One with the Lesbian Wedding",
+        "name_RU": "Эпизод с лесбийской свадьбой",
+        "date": "18 января 1996"
+    },
+    {
+        "id": 36,
+        "episode": 12,
+        "season": 2,
+        "name_EN": "The One After the Superbowl, Part 1",
+        "name_RU": "Эпизод после Суперкубка, часть 1",
+        "date": "28 января 1996"
+    },
+    {
+        "id": 37,
+        "episode": 13,
+        "season": 2,
+        "name_EN": "The One After the Superbowl, Part 2",
+        "name_RU": "Эпизод после Суперкубка, часть 2",
+        "date": "28 января 1996"
+    },
+    {
+        "id": 38,
+        "episode": 14,
+        "season": 2,
+        "name_EN": "The One with the Prom Video",
+        "name_RU": "Эпизод, где смотрят видео с выпускного бала",
+        "date": "1 февраля 1996"
+    },
+    {
+        "id": 39,
+        "episode": 15,
+        "season": 2,
+        "name_EN": "The One Where Ross and Rachel ... You Know",
+        "name_RU": "Эпизод, где Росс и Рэйчел... ну, вы знаете",
+        "date": "8 февраля 1996"
+    },
+    {
+        "id": 40,
+        "episode": 16,
+        "season": 2,
+        "name_EN": "The One Where Joey Moves Out",
+        "name_RU": "Эпизод, где Джоуи выселяется",
+        "date": "15 февраля 1996"
+    },
+    {
+        "id": 41,
+        "episode": 17,
+        "season": 2,
+        "name_EN": "The One Where Eddie Moves In",
+        "name_RU": "Эпизод, где Эдди заселяется",
+        "date": "22 февраля 1996"
+    },
+    {
+        "id": 42,
+        "episode": 18,
+        "season": 2,
+        "name_EN": "The One Where Dr. Ramoray Dies",
+        "name_RU": "Эпизод, где доктор Рэморе умирает",
+        "date": "21 марта 1996"
+    },
+    {
+        "id": 43,
+        "episode": 19,
+        "season": 2,
+        "name_EN": "The One Where Eddie Won't Go",
+        "name_RU": "Эпизод, где Эдди не хочет выселяться",
+        "date": "28 марта 1996"
+    },
+    {
+        "id": 44,
+        "episode": 20,
+        "season": 2,
+        "name_EN": "The One Where Old Yeller Dies",
+        "name_RU": "Эпизод, где старый Йеллер умирает",
+        "date": "4 апреля 1996"
+    },
+    {
+        "id": 45,
+        "episode": 21,
+        "season": 2,
+        "name_EN": "The One with the Bullies",
+        "name_RU": "Эпизод с хулиганами",
+        "date": "25 апреля 1996"
+    },
+    {
+        "id": 46,
+        "episode": 22,
+        "season": 2,
+        "name_EN": "The One with the Two Parties",
+        "name_RU": "Эпизод с двумя вечеринками",
+        "date": "2 мая 1996"
+    },
+    {
+        "id": 47,
+        "episode": 23,
+        "season": 2,
+        "name_EN": "The One with the Chicken Pox",
+        "name_RU": "Эпизод с ветрянкой",
+        "date": "9 мая 1996"
+    },
+    {
+        "id": 48,
+        "episode": 24,
+        "season": 2,
+        "name_EN": "The One with Barry and Mindy's Wedding",
+        "name_RU": "Эпизод со свадьбой Барри и Минди",
+        "date": "16 мая 1996"
+    },
+    {
+        "id": 49,
+        "episode": 1,
+        "season": 3,
+        "name_EN": "The One with the Princess Leia Fantasy",
+        "name_RU": "Эпизод с фантазией о принцессе Лее",
+        "date": "19 сентября 1996"
+    },
+    {
+        "id": 50,
+        "episode": 2,
+        "season": 3,
+        "name_EN": "The One Where No One's Ready",
+        "name_RU": "Эпизод, где никто не готов",
+        "date": "26 сентября 1996"
+    },
+    {
+        "id": 51,
+        "episode": 3,
+        "season": 3,
+        "name_EN": "The One with the Jam",
+        "name_RU": "Эпизод с джемом",
+        "date": "3 октября 1996"
+    },
+    {
+        "id": 52,
+        "episode": 4,
+        "season": 3,
+        "name_EN": "The One with the Metaphorical Tunnel",
+        "name_RU": "Эпизод с метафорическим туннелем",
+        "date": "10 октября 1996"
+    },
+    {
+        "id": 53,
+        "episode": 5,
+        "season": 3,
+        "name_EN": "The One with Frank Jr.",
+        "name_RU": "Эпизод с Фрэнком-младшим",
+        "date": "17 октября 1996"
+    },
+    {
+        "id": 54,
+        "episode": 6,
+        "season": 3,
+        "name_EN": "The One with the Flashback",
+        "name_RU": "Эпизод со взглядом в прошлое",
+        "date": "31 октября 1996"
+    },
+    {
+        "id": 55,
+        "episode": 7,
+        "season": 3,
+        "name_EN": "The One with the Race Car Bed",
+        "name_RU": "Эпизод с кроватью в виде гоночного автомобиля",
+        "date": "7 ноября 1996"
+    },
+    {
+        "id": 56,
+        "episode": 8,
+        "season": 3,
+        "name_EN": "The One with the Giant Poking Device",
+        "name_RU": "Эпизод с гигантским тыкающим устройством",
+        "date": "14 ноября 1996"
+    },
+    {
+        "id": 57,
+        "episode": 9,
+        "season": 3,
+        "name_EN": "The One with the Football",
+        "name_RU": "Эпизод с футболом",
+        "date": "21 ноября 1996"
+    },
+    {
+        "id": 58,
+        "episode": 10,
+        "season": 3,
+        "name_EN": "The One Where Rachel Quits",
+        "name_RU": "Эпизод, где Рэйчел увольняется",
+        "date": "12 декабря 1996"
+    },
+    {
+        "id": 59,
+        "episode": 11,
+        "season": 3,
+        "name_EN": "The One Where Chandler Can't Remember Which Sister",
+        "name_RU": "Эпизод, где Чендлер не помнит, какая сестра",
+        "date": ""
+    },
+    {
+        "id": 60,
+        "episode": 12,
+        "season": 3,
+        "name_EN": "The One with All the Jealousy",
+        "name_RU": "Эпизод со всей этой ревностью",
+        "date": "16 января 1997"
+    },
+    {
+        "id": 61,
+        "episode": 13,
+        "season": 3,
+        "name_EN": "The One Where Monica and Richard are Just Friends",
+        "name_RU": "Эпизод, где Моника и Ричард просто друзья",
+        "date": "30 января 1997"
+    },
+    {
+        "id": 62,
+        "episode": 14,
+        "season": 3,
+        "name_EN": "The One with Phoebe's Ex-Partner",
+        "name_RU": "Эпизод с экс-партнёром Фиби",
+        "date": "6 февраля 1997"
+    },
+    {
+        "id": 63,
+        "episode": 15,
+        "season": 3,
+        "name_EN": "The One Where Ross and Rachel Take a Break",
+        "name_RU": "Эпизод, где Росс и Рэйчел делают перерыв",
+        "date": "13 февраля 1997"
+    },
+    {
+        "id": 64,
+        "episode": 16,
+        "season": 3,
+        "name_EN": "The One the Morning After",
+        "name_RU": "Эпизод, когда наступает утро после",
+        "date": "20 февраля 1997"
+    },
+    {
+        "id": 65,
+        "episode": 17,
+        "season": 3,
+        "name_EN": "The One Without the Ski Trip",
+        "name_RU": "Эпизод с лыжной поездкой",
+        "date": "6 марта 1997"
+    },
+    {
+        "id": 66,
+        "episode": 18,
+        "season": 3,
+        "name_EN": "The One with the Hypnosis Tape",
+        "name_RU": "Эпизод с кассетой гипноза",
+        "date": "13 марта 1997"
+    },
+    {
+        "id": 67,
+        "episode": 19,
+        "season": 3,
+        "name_EN": "The One with the Tiny T-Shirt",
+        "name_RU": "Эпизод с крошечной футболкой",
+        "date": "27 марта 1997"
+    },
+    {
+        "id": 68,
+        "episode": 20,
+        "season": 3,
+        "name_EN": "The One with the Dollhouse",
+        "name_RU": "Эпизод с кукольным домиком",
+        "date": "3 апреля 1997"
+    },
+    {
+        "id": 69,
+        "episode": 21,
+        "season": 3,
+        "name_EN": "The One with a Chick and a Duck",
+        "name_RU": "Эпизод с цыплёнком и уткой",
+        "date": "17 апреля 1997"
+    },
+    {
+        "id": 70,
+        "episode": 22,
+        "season": 3,
+        "name_EN": "The One with the Screamer",
+        "name_RU": "Эпизод с крикуном",
+        "date": "24 апреля 1997"
+    },
+    {
+        "id": 71,
+        "episode": 23,
+        "season": 3,
+        "name_EN": "The One with Ross's Thing",
+        "name_RU": "Эпизод со штучкой Росса",
+        "date": "1 мая 1997"
+    },
+    {
+        "id": 72,
+        "episode": 24,
+        "season": 3,
+        "name_EN": "The One with the Ultimate Fighting Champion",
+        "name_RU": "Эпизод с чемпионом по боям без правил",
+        "date": "8 мая 1997"
+    },
+    {
+        "id": 73,
+        "episode": 25,
+        "season": 3,
+        "name_EN": "The One at the Beach",
+        "name_RU": "Эпизод на пляже",
+        "date": "15 мая 1997"
+    },
+    {
+        "id": 74,
+        "episode": 1,
+        "season": 4,
+        "name_EN": "The One with the Jellyfish",
+        "name_RU": "Эпизод с медузой",
+        "date": "25 сентября 1997"
+    },
+    {
+        "id": 75,
+        "episode": 2,
+        "season": 4,
+        "name_EN": "The One with the Cat",
+        "name_RU": "Эпизод с кошкой",
+        "date": "2 октября 1997"
+    },
+    {
+        "id": 76,
+        "episode": 3,
+        "season": 4,
+        "name_EN": "The One with the Cuffs",
+        "name_RU": "Эпизод с наручниками",
+        "date": "9 октября 1997"
+    },
+    {
+        "id": 77,
+        "episode": 4,
+        "season": 4,
+        "name_EN": "The One with the Ballroom Dancing",
+        "name_RU": "Эпизод с танцем для бала",
+        "date": "16 октября 1997"
+    },
+    {
+        "id": 78,
+        "episode": 5,
+        "season": 4,
+        "name_EN": "The One with Joey's New Girlfriend",
+        "name_RU": "Эпизод с новой подругой Джоуи",
+        "date": "30 октября 1997"
+    },
+    {
+        "id": 79,
+        "episode": 6,
+        "season": 4,
+        "name_EN": "The One with the Dirty Girl",
+        "name_RU": "Эпизод с девушкой-грязнулей",
+        "date": "6 ноября 1997"
+    },
+    {
+        "id": 80,
+        "episode": 7,
+        "season": 4,
+        "name_EN": "The One Where Chandler Crosses the Line",
+        "name_RU": "Эпизод, где Чендлер пересекает черту",
+        "date": "13 ноября 1997"
+    },
+    {
+        "id": 81,
+        "episode": 8,
+        "season": 4,
+        "name_EN": "The One with Chandler in a Box",
+        "name_RU": "Эпизод с Чендлером в ящике",
+        "date": "20 ноября 1997"
+    },
+    {
+        "id": 82,
+        "episode": 9,
+        "season": 4,
+        "name_EN": "The One Where They're Going to Party!",
+        "name_RU": "Эпизод, где они идут на вечеринку!",
+        "date": "11 декабря 1997"
+    },
+    {
+        "id": 83,
+        "episode": 10,
+        "season": 4,
+        "name_EN": "The One with the Girl from Poughkeepsie",
+        "name_RU": "Эпизод с девушкой из Пукипси",
+        "date": "18 декабря 1997"
+    },
+    {
+        "id": 84,
+        "episode": 11,
+        "season": 4,
+        "name_EN": "The One with Phoebe's Uterus",
+        "name_RU": "Эпизод с маткой Фиби",
+        "date": "8 января 1998"
+    },
+    {
+        "id": 85,
+        "episode": 12,
+        "season": 4,
+        "name_EN": "The One with the Embryos",
+        "name_RU": "Эпизод с эмбрионами",
+        "date": "15 января 1998"
+    },
+    {
+        "id": 86,
+        "episode": 13,
+        "season": 4,
+        "name_EN": "The One with Rachel's Crush",
+        "name_RU": "Эпизод с влюблённостью Рэйчел",
+        "date": "29 января 1998"
+    },
+    {
+        "id": 87,
+        "episode": 14,
+        "season": 4,
+        "name_EN": "The One with Joey's Dirty Day",
+        "name_RU": "Эпизод с грязным днём Джоуи",
+        "date": "5 февраля 1998"
+    },
+    {
+        "id": 88,
+        "episode": 15,
+        "season": 4,
+        "name_EN": "The One with All the Rugby",
+        "name_RU": "Эпизод с регби",
+        "date": "26 февраля 1998"
+    },
+    {
+        "id": 89,
+        "episode": 16,
+        "season": 4,
+        "name_EN": "The One with the Fake Party",
+        "name_RU": "Эпизод с ложной вечеринкой",
+        "date": "19 марта 1998"
+    },
+    {
+        "id": 90,
+        "episode": 17,
+        "season": 4,
+        "name_EN": "The One with the Free Porn",
+        "name_RU": "Эпизод с бесплатным порно",
+        "date": "26 марта 1998"
+    },
+    {
+        "id": 91,
+        "episode": 18,
+        "season": 4,
+        "name_EN": "The One with Rachel's New Dress",
+        "name_RU": "Эпизод с новым платьем Рэйчел",
+        "date": "2 апреля 1998"
+    },
+    {
+        "id": 92,
+        "episode": 19,
+        "season": 4,
+        "name_EN": "The One with All the Haste",
+        "name_RU": "Эпизод, где все спешат",
+        "date": "9 апреля 1998"
+    },
+    {
+        "id": 93,
+        "episode": 20,
+        "season": 4,
+        "name_EN": "The One with All the Wedding Dresses",
+        "name_RU": "Эпизод со свадебными платьями",
+        "date": "16 апреля 1998"
+    },
+    {
+        "id": 94,
+        "episode": 21,
+        "season": 4,
+        "name_EN": "The One with the Invitation",
+        "name_RU": "Эпизод с приглашениями",
+        "date": "23 апреля 1998"
+    },
+    {
+        "id": 95,
+        "episode": 22,
+        "season": 4,
+        "name_EN": "The One with the Worst Best Man Ever",
+        "name_RU": "Эпизод с самым плохим шафером всех времён",
+        "date": "30 апреля 1998"
+    },
+    {
+        "id": 96,
+        "episode": 23,
+        "season": 4,
+        "name_EN": "The One with Ross's Wedding, Part 1",
+        "name_RU": "Эпизод со свадьбой Росса, часть 1",
+        "date": "7 мая 1998"
+    },
+    {
+        "id": 97,
+        "episode": 24,
+        "season": 4,
+        "name_EN": "The One with Ross's Wedding, Part 2",
+        "name_RU": "Эпизод со свадьбой Росса, часть 2",
+        "date": "7 мая 1998"
+    },
+    {
+        "id": 98,
+        "episode": 1,
+        "season": 5,
+        "name_EN": "The One After Ross Says Rachel",
+        "name_RU": "Эпизод после того, как Росс назвал имя Рэйчел",
+        "date": "24 сентября 1998"
+    },
+    {
+        "id": 99,
+        "episode": 2,
+        "season": 5,
+        "name_EN": "The One with All the Kissing",
+        "name_RU": "Эпизод, где все целуются",
+        "date": "1 октября 1998"
+    },
+    {
+        "id": 100,
+        "episode": 3,
+        "season": 5,
+        "name_EN": "The One Hundredth (The One with the Triplets)",
+        "name_RU": "Сотый эпизод (Эпизод с тройней)",
+        "date": "8 октября 1998"
+    },
+    {
+        "id": 101,
+        "episode": 4,
+        "season": 5,
+        "name_EN": "The One Where Phoebe Hates PBS",
+        "name_RU": "Эпизод, где Фиби ненавидит канал PBS",
+        "date": "15 октября 1998"
+    },
+    {
+        "id": 102,
+        "episode": 5,
+        "season": 5,
+        "name_EN": "The One with the Kips",
+        "name_RU": "Эпизод со старым соседом Кипом",
+        "date": "29 октября 1998"
+    },
+    {
+        "id": 103,
+        "episode": 6,
+        "season": 5,
+        "name_EN": "The One with the Yeti",
+        "name_RU": "Эпизод с чудовищем Йети",
+        "date": "5 ноября 1998"
+    },
+    {
+        "id": 104,
+        "episode": 7,
+        "season": 5,
+        "name_EN": "The One Where Ross Moves In",
+        "name_RU": "Эпизод, где Росс въезжает",
+        "date": "12 ноября 1998"
+    },
+    {
+        "id": 105,
+        "episode": 8,
+        "season": 5,
+        "name_EN": "The One with All the Thanksgivings",
+        "name_RU": "Эпизод, где все вспоминают свои Дни благодарения",
+        "date": "19 ноября 1998"
+    },
+    {
+        "id": 106,
+        "episode": 9,
+        "season": 5,
+        "name_EN": "The One with Ross's Sandwich",
+        "name_RU": "Эпизод с сэндвичем Росса",
+        "date": "10 декабря 1998"
+    },
+    {
+        "id": 107,
+        "episode": 10,
+        "season": 5,
+        "name_EN": "The One with the Inappropriate Sister",
+        "name_RU": "Эпизод с сестрёнкой Дэни",
+        "date": "17 декабря 1998"
+    },
+    {
+        "id": 108,
+        "episode": 11,
+        "season": 5,
+        "name_EN": "The One with All the Resolutions",
+        "name_RU": "Эпизод, где все дают обещания",
+        "date": "7 января 1999"
+    },
+    {
+        "id": 109,
+        "episode": 12,
+        "season": 5,
+        "name_EN": "The One with Chandler's Work Laugh",
+        "name_RU": "Эпизод с рабочим смехом Чендлера",
+        "date": "21 января 1999"
+    },
+    {
+        "id": 110,
+        "episode": 13,
+        "season": 5,
+        "name_EN": "The One with Joey's Bag",
+        "name_RU": "Эпизод с новой сумкой Джо",
+        "date": "4 февраля 1999"
+    },
+    {
+        "id": 111,
+        "episode": 14,
+        "season": 5,
+        "name_EN": "The One Where Everybody Finds Out",
+        "name_RU": "Эпизод, где все всё узнают",
+        "date": "11 февраля 1999"
+    },
+    {
+        "id": 112,
+        "episode": 15,
+        "season": 5,
+        "name_EN": "The One with the Girl Who Hits Joey",
+        "name_RU": "Эпизод с девушкой, которая ударила Джоуи",
+        "date": "18 февраля 1999"
+    },
+    {
+        "id": 113,
+        "episode": 16,
+        "season": 5,
+        "name_EN": "The One with the Cop",
+        "name_RU": "Эпизод с полицейским",
+        "date": "25 февраля 1999"
+    },
+    {
+        "id": 114,
+        "episode": 17,
+        "season": 5,
+        "name_EN": "The One with Rachel's Inadvertent Kiss",
+        "name_RU": "Эпизод со случайным поцелуем Рэйчел",
+        "date": "18 марта 1999"
+    },
+    {
+        "id": 115,
+        "episode": 18,
+        "season": 5,
+        "name_EN": "The One Where Rachel Smokes",
+        "name_RU": "Эпизод, где Рэйчел курит",
+        "date": "8 апреля 1999"
+    },
+    {
+        "id": 116,
+        "episode": 19,
+        "season": 5,
+        "name_EN": "The One Where Ross Can't Flirt",
+        "name_RU": "Эпизод, где Росс не умеет флиртовать",
+        "date": "22 апреля 1999"
+    },
+    {
+        "id": 117,
+        "episode": 20,
+        "season": 5,
+        "name_EN": "The One with the Ride-Along",
+        "name_RU": "Эпизод, где парни едут в полицейский рейд",
+        "date": ""
+    },
+    {
+        "id": 118,
+        "episode": 21,
+        "season": 5,
+        "name_EN": "The One with the Ball",
+        "name_RU": "Эпизод с игрой в мяч",
+        "date": "6 мая 1999"
+    },
+    {
+        "id": 119,
+        "episode": 22,
+        "season": 5,
+        "name_EN": "The One with Joey's Big Break",
+        "name_RU": "Эпизод, где Джо обиделся на Чендлера",
+        "date": "13 мая 1999"
+    },
+    {
+        "id": 120,
+        "episode": 23,
+        "season": 5,
+        "name_EN": "The One in Vegas, Part 1",
+        "name_RU": "Эпизод в Вегасе, часть 1",
+        "date": "20 мая 1999"
+    },
+    {
+        "id": 121,
+        "episode": 24,
+        "season": 5,
+        "name_EN": "The One in Vegas, Part 2",
+        "name_RU": "Эпизод в Вегасе, часть 2",
+        "date": "20 мая 1999"
+    },
+    {
+        "id": 122,
+        "episode": 1,
+        "season": 6,
+        "name_EN": "The One After Vegas",
+        "name_RU": "Эпизод после Вегаса",
+        "date": "23 сентября 1999"
+    },
+    {
+        "id": 123,
+        "episode": 2,
+        "season": 6,
+        "name_EN": "The One Where Ross Hugs Rachel",
+        "name_RU": "Эпизод, в котором Росс обнимает Рэйчел",
+        "date": "30 сентября 1999"
+    },
+    {
+        "id": 124,
+        "episode": 3,
+        "season": 6,
+        "name_EN": "The One with Ross's Denial",
+        "name_RU": "Эпизод, где Росс все отрицает",
+        "date": "7 октября 1999"
+    },
+    {
+        "id": 125,
+        "episode": 4,
+        "season": 6,
+        "name_EN": "The One Where Joey Loses His Insurance",
+        "name_RU": "Эпизод, в котором Джоуи теряет свою медицинскую страховку",
+        "date": "14 октября 1999"
+    },
+    {
+        "id": 126,
+        "episode": 5,
+        "season": 6,
+        "name_EN": "The One with Joey's Porsche",
+        "name_RU": "Эпизод с Porsche Джоуи",
+        "date": "21 октября 1999"
+    },
+    {
+        "id": 127,
+        "episode": 6,
+        "season": 6,
+        "name_EN": "The One on the Last Night",
+        "name_RU": "Эпизод о последнем вечере",
+        "date": "4 ноября 1999"
+    },
+    {
+        "id": 128,
+        "episode": 7,
+        "season": 6,
+        "name_EN": "The One Where Phoebe Runs",
+        "name_RU": "Эпизод, в котором Фиби бегает",
+        "date": "11 ноября 1999"
+    },
+    {
+        "id": 129,
+        "episode": 8,
+        "season": 6,
+        "name_EN": "The One with Ross's Teeth",
+        "name_RU": "Эпизод с зубами Росса",
+        "date": "18 ноября 1999"
+    },
+    {
+        "id": 130,
+        "episode": 9,
+        "season": 6,
+        "name_EN": "The One Where Ross Got High",
+        "name_RU": "Эпизод, в котором Росс обкуривается",
+        "date": "25 ноября 1999"
+    },
+    {
+        "id": 131,
+        "episode": 10,
+        "season": 6,
+        "name_EN": "The One with the Routine",
+        "name_RU": "Эпизод c «халтуркой»",
+        "date": "16 декабря 1999"
+    },
+    {
+        "id": 132,
+        "episode": 11,
+        "season": 6,
+        "name_EN": "The One with the Apothecary Table",
+        "name_RU": "Эпизод c аптекарским столиком",
+        "date": "6 января 2000"
+    },
+    {
+        "id": 133,
+        "episode": 12,
+        "season": 6,
+        "name_EN": "The One with the Joke",
+        "name_RU": "Эпизод c шуткой",
+        "date": "13 января 2000"
+    },
+    {
+        "id": 134,
+        "episode": 13,
+        "season": 6,
+        "name_EN": "The One with Rachel's Sister",
+        "name_RU": "Эпизод с сестрой Рэйчел",
+        "date": "3 февраля 2000"
+    },
+    {
+        "id": 135,
+        "episode": 14,
+        "season": 6,
+        "name_EN": "The One Where Chandler Can't Cry",
+        "name_RU": "Эпизод, в котором Чендлер не может плакать",
+        "date": "10 февраля 2000"
+    },
+    {
+        "id": 136,
+        "episode": 15,
+        "season": 6,
+        "name_EN": "The One That Could Have Been, Part 1",
+        "name_RU": "Эпизод, в котором все могло быть иначе, часть 1",
+        "date": "17 февраля 2000"
+    },
+    {
+        "id": 137,
+        "episode": 16,
+        "season": 6,
+        "name_EN": "The One That Could Have Been, Part 2",
+        "name_RU": "Эпизод, в котором все могло быть иначе, часть 2",
+        "date": "17 февраля 2000"
+    },
+    {
+        "id": 138,
+        "episode": 17,
+        "season": 6,
+        "name_EN": "The One with Unagi",
+        "name_RU": "Эпизод c «унаги»",
+        "date": "24 февраля 2000"
+    },
+    {
+        "id": 139,
+        "episode": 18,
+        "season": 6,
+        "name_EN": "The One Where Ross Dates a Student",
+        "name_RU": "Эпизод, в котором Росс назначает свидание студентке",
+        "date": "9 марта 2000"
+    },
+    {
+        "id": 140,
+        "episode": 19,
+        "season": 6,
+        "name_EN": "The One with Joey's Fridge",
+        "name_RU": "Эпизод с холодильником Джо",
+        "date": "23 марта 2000"
+    },
+    {
+        "id": 141,
+        "episode": 20,
+        "season": 6,
+        "name_EN": "The One with Mac and C.H.E.E.S.E.",
+        "name_RU": "Эпизод с Маком и Чизом",
+        "date": "13 апреля 2000"
+    },
+    {
+        "id": 142,
+        "episode": 21,
+        "season": 6,
+        "name_EN": "The One Where Ross Meets Elizabeth's Dad",
+        "name_RU": "Эпизод, в котором Росс знакомится с отцом Элизабет",
+        "date": "27 апреля 2000"
+    },
+    {
+        "id": 143,
+        "episode": 22,
+        "season": 6,
+        "name_EN": "The One Where Paul's the Man",
+        "name_RU": "Эпизод, в котором Пол — классный парень",
+        "date": "4 мая 2000"
+    },
+    {
+        "id": 144,
+        "episode": 23,
+        "season": 6,
+        "name_EN": "The One with the Ring",
+        "name_RU": "Эпизод с кольцом",
+        "date": "11 мая 2000"
+    },
+    {
+        "id": 145,
+        "episode": 24,
+        "season": 6,
+        "name_EN": "The One with the Proposal, Part 1",
+        "name_RU": "Эпизод с предложением, часть 1",
+        "date": "18 мая 2000"
+    },
+    {
+        "id": 146,
+        "episode": 25,
+        "season": 6,
+        "name_EN": "The One with the Proposal, Part 2",
+        "name_RU": "Эпизод с предложением, часть 2",
+        "date": "18 мая 2000"
+    },
+    {
+        "id": 147,
+        "episode": 1,
+        "season": 7,
+        "name_EN": "The One with Monica's Thunder",
+        "name_RU": "Эпизод с вечеринкой Моники",
+        "date": "12 октября 2000"
+    },
+    {
+        "id": 148,
+        "episode": 2,
+        "season": 7,
+        "name_EN": "The One with Rachel's Book",
+        "name_RU": "Эпизод с книгой Рэйчел",
+        "date": "12 октября 2000"
+    },
+    {
+        "id": 149,
+        "episode": 3,
+        "season": 7,
+        "name_EN": "The One with Phoebe's Cookies",
+        "name_RU": "Эпизод с печеньем Фиби",
+        "date": "19 октября 2000"
+    },
+    {
+        "id": 150,
+        "episode": 4,
+        "season": 7,
+        "name_EN": "The One with Rachel's Assistant",
+        "name_RU": "Эпизод с ассистентом Рэйчел",
+        "date": "26 октября 2000"
+    },
+    {
+        "id": 151,
+        "episode": 5,
+        "season": 7,
+        "name_EN": "The One with the Engagement Picture",
+        "name_RU": "Эпизод с фотографией для помолвки",
+        "date": "2 ноября 2000"
+    },
+    {
+        "id": 152,
+        "episode": 6,
+        "season": 7,
+        "name_EN": "The One with the Nap Partners",
+        "name_RU": "Эпизод со спящими",
+        "date": "9 ноября 2000"
+    },
+    {
+        "id": 153,
+        "episode": 7,
+        "season": 7,
+        "name_EN": "The One with Ross's Library Book",
+        "name_RU": "Эпизод с библиотечной книгой Росса",
+        "date": "16 ноября 2000"
+    },
+    {
+        "id": 154,
+        "episode": 8,
+        "season": 7,
+        "name_EN": "The One Where Chandler Doesn't Like Dogs",
+        "name_RU": "Эпизод, в котором выясняется, что Чендлер не любит собак",
+        "date": "23 ноября 2000"
+    },
+    {
+        "id": 155,
+        "episode": 9,
+        "season": 7,
+        "name_EN": "The One with All the Candy",
+        "name_RU": "Эпизод со всеми конфетами",
+        "date": "7 декабря 2000"
+    },
+    {
+        "id": 156,
+        "episode": 10,
+        "season": 7,
+        "name_EN": "The One with the Holiday Armadillo",
+        "name_RU": "Эпизод с Рождественским Броненосцем",
+        "date": "14 декабря 2000"
+    },
+    {
+        "id": 157,
+        "episode": 11,
+        "season": 7,
+        "name_EN": "The One with All the Cheesecakes",
+        "name_RU": "Эпизод с сырными пирогами",
+        "date": "4 января 2001"
+    },
+    {
+        "id": 158,
+        "episode": 12,
+        "season": 7,
+        "name_EN": "The One Where They're Up All Night",
+        "name_RU": "Эпизод, в котором никто не спит",
+        "date": "11 января 2001"
+    },
+    {
+        "id": 159,
+        "episode": 13,
+        "season": 7,
+        "name_EN": "The One Where Rosita Dies",
+        "name_RU": "Эпизод, в котором Розита умирает",
+        "date": "1 февраля 2001"
+    },
+    {
+        "id": 160,
+        "episode": 14,
+        "season": 7,
+        "name_EN": "The One Where They All Turn Thirty",
+        "name_RU": "Эпизод, в котором всем исполняется по 30",
+        "date": "8 февраля 2001"
+    },
+    {
+        "id": 161,
+        "episode": 15,
+        "season": 7,
+        "name_EN": "The One with Joey's New Brain",
+        "name_RU": "Эпизод c новым мозгом Джоуи",
+        "date": "15 февраля 2001"
+    },
+    {
+        "id": 162,
+        "episode": 16,
+        "season": 7,
+        "name_EN": "The One with the Truth About London",
+        "name_RU": "Эпизод со всей правдой о Лондоне",
+        "date": "22 февраля 2001"
+    },
+    {
+        "id": 163,
+        "episode": 17,
+        "season": 7,
+        "name_EN": "The One with the Cheap Wedding Dress",
+        "name_RU": "Эпизод с дешёвым свадебным платьем",
+        "date": "15 марта 2001"
+    },
+    {
+        "id": 164,
+        "episode": 18,
+        "season": 7,
+        "name_EN": "The One with Joey's Award",
+        "name_RU": "Эпизод с наградой Джоуи",
+        "date": "29 марта 2001"
+    },
+    {
+        "id": 165,
+        "episode": 19,
+        "season": 7,
+        "name_EN": "The One with Ross and Monica's Cousin",
+        "name_RU": "Эпизод с кузиной Росса и Моники",
+        "date": "19 апреля 2001"
+    },
+    {
+        "id": 166,
+        "episode": 20,
+        "season": 7,
+        "name_EN": "The One with Rachel's Big Kiss",
+        "name_RU": "Эпизод с Великим Поцелуем Рэйчел",
+        "date": "26 апреля 2001"
+    },
+    {
+        "id": 167,
+        "episode": 21,
+        "season": 7,
+        "name_EN": "The One with the Vows",
+        "name_RU": "Эпизод с клятвами",
+        "date": "3 мая 2001"
+    },
+    {
+        "id": 168,
+        "episode": 22,
+        "season": 7,
+        "name_EN": "The One with Chandler's Dad",
+        "name_RU": "Эпизод с отцом Чендлера",
+        "date": "10 мая 2001"
+    },
+    {
+        "id": 169,
+        "episode": 23,
+        "season": 7,
+        "name_EN": "The One with Monica and Chandler's Wedding, Part 1",
+        "name_RU": "Эпизод со свадьбой Моники и Чендлера, часть 1",
+        "date": "17 мая 2001"
+    },
+    {
+        "id": 170,
+        "episode": 24,
+        "season": 7,
+        "name_EN": "The One with Monica and Chandler's Wedding, Part 2",
+        "name_RU": "Эпизод со свадьбой Моники и Чендлера, часть 2",
+        "date": "17 мая 2001"
+    },
+    {
+        "id": 171,
+        "episode": 1,
+        "season": 8,
+        "name_EN": "The One After 'I Do'",
+        "name_RU": "Эпизод после слов «Я согласен»",
+        "date": "27 сентября 2001"
+    },
+    {
+        "id": 172,
+        "episode": 2,
+        "season": 8,
+        "name_EN": "The One with the Red Sweater",
+        "name_RU": "Эпизод с красным свитером",
+        "date": "4 октября 2001"
+    },
+    {
+        "id": 173,
+        "episode": 3,
+        "season": 8,
+        "name_EN": "The One Where Rachel Tells...",
+        "name_RU": "Эпизод, в котором Рэйчел рассказывает…",
+        "date": "11 октября 2001"
+    },
+    {
+        "id": 174,
+        "episode": 4,
+        "season": 8,
+        "name_EN": "The One with the Videotape",
+        "name_RU": "Эпизод с видеокассетой",
+        "date": "18 октября 2001"
+    },
+    {
+        "id": 175,
+        "episode": 5,
+        "season": 8,
+        "name_EN": "The One with Rachel's Date",
+        "name_RU": "Эпизод со свиданием Рэйчел",
+        "date": "25 октября 2001"
+    },
+    {
+        "id": 176,
+        "episode": 6,
+        "season": 8,
+        "name_EN": "The One with the Halloween Party",
+        "name_RU": "Эпизод с вечеринкой на Хэллоуин",
+        "date": "1 ноября 2001"
+    },
+    {
+        "id": 177,
+        "episode": 7,
+        "season": 8,
+        "name_EN": "The One with the Stain",
+        "name_RU": "Эпизод с пятном",
+        "date": "8 ноября 2001"
+    },
+    {
+        "id": 178,
+        "episode": 8,
+        "season": 8,
+        "name_EN": "The One with the Stripper",
+        "name_RU": "Эпизод со стриптизершей",
+        "date": "15 ноября 2001"
+    },
+    {
+        "id": 179,
+        "episode": 9,
+        "season": 8,
+        "name_EN": "The One with the Rumor",
+        "name_RU": "Эпизод со сплетней",
+        "date": "22 ноября 2001"
+    },
+    {
+        "id": 180,
+        "episode": 10,
+        "season": 8,
+        "name_EN": "The One with Monica's Boots",
+        "name_RU": "Эпизод с сапожками Моники",
+        "date": "6 декабря 2001"
+    },
+    {
+        "id": 181,
+        "episode": 11,
+        "season": 8,
+        "name_EN": "The One with Ross's Step Forward",
+        "name_RU": "Эпизод с серьёзным шагом для Росса",
+        "date": "13 декабря 2001"
+    },
+    {
+        "id": 182,
+        "episode": 12,
+        "season": 8,
+        "name_EN": "The One Where Joey Dates Rachel",
+        "name_RU": "Эпизод, в котором Джоуи идёт на свидание с Рэйчел",
+        "date": "10 января 2002"
+    },
+    {
+        "id": 183,
+        "episode": 13,
+        "season": 8,
+        "name_EN": "The One Where Chandler Takes a Bath",
+        "name_RU": "Эпизод, в котором Чендлер принимает ванну",
+        "date": "17 января 2002"
+    },
+    {
+        "id": 184,
+        "episode": 14,
+        "season": 8,
+        "name_EN": "The One with the Secret Closet",
+        "name_RU": "Эпизод про тайный чулан",
+        "date": "31 января 2002"
+    },
+    {
+        "id": 185,
+        "episode": 15,
+        "season": 8,
+        "name_EN": "The One with the Birthing Video",
+        "name_RU": "Эпизод с видео о родах",
+        "date": "7 февраля 2002"
+    },
+    {
+        "id": 186,
+        "episode": 16,
+        "season": 8,
+        "name_EN": "The One Where Joey Tells Rachel",
+        "name_RU": "Эпизод, в котором Джоуи рассказывает Рэйчел",
+        "date": "28 февраля 2002"
+    },
+    {
+        "id": 187,
+        "episode": 17,
+        "season": 8,
+        "name_EN": "The One with the Tea Leaves",
+        "name_RU": "Эпизод с чайными листьями",
+        "date": "7 марта 2002"
+    },
+    {
+        "id": 188,
+        "episode": 18,
+        "season": 8,
+        "name_EN": "The One in Massapequa",
+        "name_RU": "Эпизод проходит в Массапекуе",
+        "date": "28 марта 2002"
+    },
+    {
+        "id": 189,
+        "episode": 19,
+        "season": 8,
+        "name_EN": "The One with Joey's Interview",
+        "name_RU": "Эпизод с интервью Джоуи",
+        "date": "4 апреля 2002"
+    },
+    {
+        "id": 190,
+        "episode": 20,
+        "season": 8,
+        "name_EN": "The One with the Baby Shower",
+        "name_RU": "Эпизод с детской вечеринкой",
+        "date": "25 апреля 2002"
+    },
+    {
+        "id": 191,
+        "episode": 21,
+        "season": 8,
+        "name_EN": "The One with the Cooking Class",
+        "name_RU": "Эпизод с курсами кулинарии",
+        "date": "2 мая 2002"
+    },
+    {
+        "id": 192,
+        "episode": 22,
+        "season": 8,
+        "name_EN": "The One Where Rachel is Late",
+        "name_RU": "Эпизод, где Рэйчел перенашивает",
+        "date": "9 мая 2002"
+    },
+    {
+        "id": 193,
+        "episode": 23,
+        "season": 8,
+        "name_EN": "The One Where Rachel Has a Baby, Part 1",
+        "name_RU": "Эпизод, в котором рождается ребёнок, часть 1",
+        "date": "16 мая 2002"
+    },
+    {
+        "id": 194,
+        "episode": 24,
+        "season": 8,
+        "name_EN": "The One Where Rachel Has a Baby, Part 2",
+        "name_RU": "Эпизод, в котором рождается ребёнок, часть 2",
+        "date": "16 мая 2002"
+    },
+    {
+        "id": 195,
+        "episode": 1,
+        "season": 9,
+        "name_EN": "The One Where No One Proposes",
+        "name_RU": "Эпизод, в котором никто не делает предложения",
+        "date": "26 сентября 2002"
+    },
+    {
+        "id": 196,
+        "episode": 2,
+        "season": 9,
+        "name_EN": "The One Where Emma Cries",
+        "name_RU": "Эпизод, где плачет Эмма",
+        "date": "3 октября 2002"
+    },
+    {
+        "id": 197,
+        "episode": 3,
+        "season": 9,
+        "name_EN": "The One with the Pediatrician",
+        "name_RU": "Эпизод с педиатром",
+        "date": "10 октября 2002"
+    },
+    {
+        "id": 198,
+        "episode": 4,
+        "season": 9,
+        "name_EN": "The One with the Sharks",
+        "name_RU": "Эпизод с акулами",
+        "date": "17 октября 2002"
+    },
+    {
+        "id": 199,
+        "episode": 5,
+        "season": 9,
+        "name_EN": "The One with Phoebe's Birthday Dinner",
+        "name_RU": "Эпизод с днём рождения Фиби",
+        "date": "31 октября 2002"
+    },
+    {
+        "id": 200,
+        "episode": 6,
+        "season": 9,
+        "name_EN": "The One with the Male Nanny",
+        "name_RU": "Эпизод с няней мужского пола",
+        "date": "7 ноября 2002"
+    },
+    {
+        "id": 201,
+        "episode": 7,
+        "season": 9,
+        "name_EN": "The One with Ross's Inappropriate Song",
+        "name_RU": "Эпизод с неуместной песней Росса",
+        "date": "14 ноября 2002"
+    },
+    {
+        "id": 202,
+        "episode": 8,
+        "season": 9,
+        "name_EN": "The One with Rachel's Other Sister",
+        "name_RU": "Эпизод с другой сестрой Рэйчел",
+        "date": "21 ноября 2002"
+    },
+    {
+        "id": 203,
+        "episode": 9,
+        "season": 9,
+        "name_EN": "The One with Rachel's Phone Number",
+        "name_RU": "Эпизод с телефонным номером Рэйчел",
+        "date": "5 декабря 2002"
+    },
+    {
+        "id": 204,
+        "episode": 10,
+        "season": 9,
+        "name_EN": "The One with Christmas in Tulsa",
+        "name_RU": "Эпизод с Рождеством в Талсе",
+        "date": "12 декабря 2002"
+    },
+    {
+        "id": 205,
+        "episode": 11,
+        "season": 9,
+        "name_EN": "The One Where Rachel Goes Back to Work",
+        "name_RU": "Эпизод, где Рэйчел возвращается на работу",
+        "date": "9 января 2003"
+    },
+    {
+        "id": 206,
+        "episode": 12,
+        "season": 9,
+        "name_EN": "The One with Phoebe's Rats",
+        "name_RU": "Эпизод с крысами Фиби",
+        "date": "16 января 2003"
+    },
+    {
+        "id": 207,
+        "episode": 13,
+        "season": 9,
+        "name_EN": "The One Where Monica Sings",
+        "name_RU": "Эпизод, где Моника поёт",
+        "date": "30 января 2003"
+    },
+    {
+        "id": 208,
+        "episode": 14,
+        "season": 9,
+        "name_EN": "The One with the Blind Dates",
+        "name_RU": "Эпизод со свиданиями вслепую",
+        "date": "6 февраля 2003"
+    },
+    {
+        "id": 209,
+        "episode": 15,
+        "season": 9,
+        "name_EN": "The One with the Mugging",
+        "name_RU": "Эпизод с хулиганством",
+        "date": "13 февраля 2003"
+    },
+    {
+        "id": 210,
+        "episode": 16,
+        "season": 9,
+        "name_EN": "The One with the Boob Job",
+        "name_RU": "Эпизод с пластикой груди",
+        "date": "20 февраля 2003"
+    },
+    {
+        "id": 211,
+        "episode": 17,
+        "season": 9,
+        "name_EN": "The One with the Memorial Service",
+        "name_RU": "Эпизод с поминками",
+        "date": "13 марта 2003"
+    },
+    {
+        "id": 212,
+        "episode": 18,
+        "season": 9,
+        "name_EN": "The One with the Lottery",
+        "name_RU": "Эпизод с лотереей",
+        "date": "3 апреля 2003"
+    },
+    {
+        "id": 213,
+        "episode": 19,
+        "season": 9,
+        "name_EN": "The One with Rachel's Dream",
+        "name_RU": "Эпизод со сном Рэйчел",
+        "date": "17 апреля 2003"
+    },
+    {
+        "id": 214,
+        "episode": 20,
+        "season": 9,
+        "name_EN": "The One with the Soap Opera Party",
+        "name_RU": "Эпизод с «мыльной» вечеринкой",
+        "date": "24 апреля 2003"
+    },
+    {
+        "id": 215,
+        "episode": 21,
+        "season": 9,
+        "name_EN": "The One with the Fertility Test",
+        "name_RU": "Эпизод с результатом теста",
+        "date": "1 мая 2003"
+    },
+    {
+        "id": 216,
+        "episode": 22,
+        "season": 9,
+        "name_EN": "The One with the Donor",
+        "name_RU": "Эпизод с донором",
+        "date": "8 мая 2003"
+    },
+    {
+        "id": 217,
+        "episode": 23,
+        "season": 9,
+        "name_EN": "The One in Barbados, Part 1",
+        "name_RU": "Эпизод на Барбадосе, часть 1",
+        "date": "15 мая 2003"
+    },
+    {
+        "id": 218,
+        "episode": 24,
+        "season": 9,
+        "name_EN": "The One in Barbados, Part 2",
+        "name_RU": "Эпизод на Барбадосе, часть 2",
+        "date": "15 мая 2003"
+    },
+    {
+        "id": 219,
+        "episode": 1,
+        "season": 10,
+        "name_EN": "The One After Joey and Rachel Kiss",
+        "name_RU": "Эпизод после поцелуя Джоуи и Рэйчел",
+        "date": "25 сентября 2003"
+    },
+    {
+        "id": 220,
+        "episode": 2,
+        "season": 10,
+        "name_EN": "The One Where Ross is Fine",
+        "name_RU": "Эпизод, где Росс в порядке",
+        "date": "2 октября 2003"
+    },
+    {
+        "id": 221,
+        "episode": 3,
+        "season": 10,
+        "name_EN": "The One with Ross's Tan",
+        "name_RU": "Эпизод c загаром Росса",
+        "date": "9 октября 2003"
+    },
+    {
+        "id": 222,
+        "episode": 4,
+        "season": 10,
+        "name_EN": "The One with the Cake",
+        "name_RU": "Эпизод с тортом",
+        "date": "23 октября 2003"
+    },
+    {
+        "id": 223,
+        "episode": 5,
+        "season": 10,
+        "name_EN": "The One Where Rachel's Sister Babysits",
+        "name_RU": "Эпизод, в котором сестра Рэйчел нянчится",
+        "date": "30 октября 2003"
+    },
+    {
+        "id": 224,
+        "episode": 6,
+        "season": 10,
+        "name_EN": "The One with Ross's Grant",
+        "name_RU": "Эпизод с грантом Росса",
+        "date": "6 ноября 2003"
+    },
+    {
+        "id": 225,
+        "episode": 7,
+        "season": 10,
+        "name_EN": "The One with the Home Study",
+        "name_RU": "Эпизод с осмотром квартиры",
+        "date": "13 ноября 2003"
+    },
+    {
+        "id": 226,
+        "episode": 8,
+        "season": 10,
+        "name_EN": "The One with the Late Thanksgiving",
+        "name_RU": "Эпизод с запоздавшим днём благодарения",
+        "date": "20 ноября 2003"
+    },
+    {
+        "id": 227,
+        "episode": 9,
+        "season": 10,
+        "name_EN": "The One with the Birth Mother",
+        "name_RU": "Эпизод с суррогатной матерью",
+        "date": "8 января 2004"
+    },
+    {
+        "id": 228,
+        "episode": 10,
+        "season": 10,
+        "name_EN": "The One Where Chandler Gets Caught",
+        "name_RU": "Эпизод, в котором Чендлер пойман",
+        "date": "15 января 2004"
+    },
+    {
+        "id": 229,
+        "episode": 11,
+        "season": 10,
+        "name_EN": "The One Where the Stripper Cries",
+        "name_RU": "Эпизод, где стриптизёр плачет",
+        "date": "5 февраля 2004"
+    },
+    {
+        "id": 230,
+        "episode": 12,
+        "season": 10,
+        "name_EN": "The One with Phoebe's Wedding",
+        "name_RU": "Эпизод со свадьбой Фиби",
+        "date": "12 февраля 2004"
+    },
+    {
+        "id": 231,
+        "episode": 13,
+        "season": 10,
+        "name_EN": "The One Where Joey Speaks French",
+        "name_RU": "Эпизод, где Джоуи разговаривает по-французски",
+        "date": "19 февраля 2004"
+    },
+    {
+        "id": 232,
+        "episode": 14,
+        "season": 10,
+        "name_EN": "The One with Princess Consuela",
+        "name_RU": "Эпизод с принцессой Консуэлой",
+        "date": "26 февраля 2004"
+    },
+    {
+        "id": 233,
+        "episode": 15,
+        "season": 10,
+        "name_EN": "The One Where Estelle Dies",
+        "name_RU": "Эпизод, в котором Эстель умирает",
+        "date": "22 апреля 2004"
+    },
+    {
+        "id": 234,
+        "episode": 16,
+        "season": 10,
+        "name_EN": "The One with Rachel's Going Away Party",
+        "name_RU": "Эпизод с прощальной вечеринкой Рэйчел",
+        "date": "29 апреля 2004"
+    },
+    {
+        "id": 235,
+        "episode": 17,
+        "season": 10,
+        "name_EN": "The Last One, Part 1",
+        "name_RU": "Финальный эпизод, часть 1",
+        "date": "6 мая 2004"
+    },
+    {
+        "id": 236,
+        "episode": 18,
+        "season": 10,
+        "name_EN": "The Last One, Part 2",
+        "name_RU": "Финальный эпизод, часть 2",
+        "date": "6 мая 2004"
+    }
+]

@@ -1,0 +1,16 @@
+name: GitHub Actions Deploy
+
+concurrency: production
+
+run-name: Deploy 🚀
+on:
+  workflow_dispatch:
+jobs:
+  deployment:
+    runs-on: self-hosted
+    environment: production
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v3
+      - name: docker compose
+        run: docker compose up --build

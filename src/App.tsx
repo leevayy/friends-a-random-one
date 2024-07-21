@@ -20,7 +20,7 @@ const App: React.FC = () => {
   );
 
   useEffect(() => {
-    fetch("/episodes.json")
+    fetch("/friends-a-random-one/episodes.json")
       .then((response) => response.json())
       .then((data: EpisodeEntity[]) => {
         setEpisodes(data);

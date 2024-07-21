@@ -1,33 +1,79 @@
-import "./App.css";
-import dockerLogo from "./assets/docker.svg";
-import githubActionsLogo from "./assets/gh-actions.svg";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
+import { useEffect, useState } from "react";
+import React from "react";
 
-function App() {
-  return (
-    <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div>
-        <a href="https://docker.com" target="_blank">
-          <img src={dockerLogo} className="logo" />
-        </a>
-        <a href="https://github.com" target="_blank">
-          <img src={githubActionsLogo} className="logo" />
-        </a>
-      </div>
-      <h1>+ Docker</h1>
-      <h1>+ Github Actions</h1>
-    </>
-  );
+import styles from "./App.module.css";
+import { EpisodeCard } from "./components/EpisodeCard/EpisodeCard";
+
+export interface EpisodeEntity {
+  id: number;
+  episode: number;
+  season: number;
+  name_EN: string;
+  name_RU: string;
+  date: string;
 }
+
+const App: React.FC = () => {
+  const [episodes, setEpisodes] = useState<EpisodeEntity[]>([]);
+  const [randomEpisode, setRandomEpisode] = useState<EpisodeEntity | null>(
+    null,
+  );
+
+  useEffect(() => {
+    fetch("/episodes.json")
+      .then((response) => response.json())
+      .then((data: EpisodeEntity[]) => {
+        setEpisodes(data);
+      })
+      .catch((error) => {
+        // eslint-disable-next-line no-console
+        console.error("Error fetching the data:", error);
+      });
+  }, []);
+
+  const handleRandomEntity = () => {
+    if (episodes.length > 0) {
+      const randomIndex = Math.floor(Math.random() * episodes.length);
+
+      setRandomEpisode(episodes[randomIndex]);
+    }
+  };
+
+  return (
+    <div className={styles.container}>
+      {randomEpisode && (
+        <img
+          src={`https://serialfriends.online/wp-content/uploads/2021/09/druzya-${randomEpisode.season}-sezon-${randomEpisode.episode}-seriya.jpg`}
+        />
+      )}
+      {!randomEpisode && (
+        <h1>
+          A Random One x{" "}
+          <a
+            href="https://serialfriends.online/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            serialfriends.online
+          </a>
+        </h1>
+      )}
+      {randomEpisode && (
+        <>
+          <h1>{randomEpisode.name_EN}</h1>
+          <h2 className={styles.episodeName_RU}>{randomEpisode.name_RU}</h2>
+        </>
+      )}
+      <button className={styles.nextEpisode} onClick={handleRandomEntity}>
+        Next
+      </button>
+      {randomEpisode ? (
+        <EpisodeCard episode={randomEpisode} />
+      ) : (
+        <div>Push the button!</div>
+      )}
+    </div>
+  );
+};
 
 export default App;

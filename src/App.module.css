@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    width: 100vw;
+}
+
+.nextEpisode {
+    font-size: 20px;
+    padding: 10px 20px;
+}
+
+.episodeName_RU {
+    margin-top: calc(-1 * 40px);
+    color: #666;
+}

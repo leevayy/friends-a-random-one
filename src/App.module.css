@@ -30,7 +30,7 @@
     padding: 10px 20px;
 }
 .image {
-    max-width: 100%;
+    max-width: calc(100% - 8px);
 }
 
 .episodeName_RU {

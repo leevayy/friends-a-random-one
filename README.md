@@ -1,5 +1,3 @@
-# test-actions
+# A Random One x serialfriends.online
 
-http://37.1.219.54:4173/
-
-need to fix stalling the workflow on npm run preview
+SPA with a random episode of friends with a link to watch on serialfriends.online

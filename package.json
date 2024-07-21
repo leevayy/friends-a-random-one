@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview --host > output.log",
+    "preview": "vite preview --host",
     "build": "tsc -b && vite build",
     "deploy": "npm run build && gh-pages -d dist"
   },
